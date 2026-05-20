@@ -1,2 +1,2 @@
-# Voltix
-Voltix
+# Glintcoin
+Glintcoin
